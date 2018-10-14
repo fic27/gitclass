@@ -1,1 +1,2 @@
 Hello, this is the first sentence.
+I'd like to add one more sentence.
