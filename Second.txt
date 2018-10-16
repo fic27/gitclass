@@ -1,2 +1,6 @@
 Second file created
+<<<<<<< HEAD
 master branch ¼öÁ¤
+=======
+½ÇÇè branch ÀÛ¾÷
+>>>>>>> ì‹¤í—˜
